@@ -1,0 +1,81 @@
+# iNextLabs Company Information
+
+## About iNextLabs
+iNextLabs is a Cloud and AI-focused company with a mission to bring the power of artificial intelligence to benefit every business and individual. The company builds AI agents that drive business transformation by automating conversations, documents, and business insights across workflows — helping teams move faster, reduce manual work, and make smarter decisions.
+
+## Office Locations
+- Headquarters: 60 Paya Lebar Road #10-07 Paya Lebar Square, Singapore 409051
+- Other locations: India, Malaysia, USA
+
+## Contact Information
+- Phone/WhatsApp: +65 6612 7252
+- Email: info@inextlabs.com
+- Website: https://inextlabs.ai
+
+## Products
+
+### inFlow EngageAI
+AI agents for customer conversations, automation, and engagement. An agentic conversational AI solution that powers customer support, IT automation, sales, and lead generation. Enables faster responses, smarter workflows, and reduced operational costs.
+
+Sub-products:
+- EngageAI for Sales Intelligence
+- EngageAI for Customer Service
+
+### inFlow DocsAI
+Intelligent document processing and data extraction. An agentic document intelligence solution that reads, validates, and acts on documents — automating operations, ensuring compliance, and turning documents into decisions.
+
+### inFlow InsightsAI
+Conversational analytics and enterprise data insights. An agentic analytics solution that lets teams ask questions in natural language and get instant, reasoned insights — explaining data, uncovering opportunities, and guiding better decisions.
+
+## Platform Features
+- Foundation Model: Pick the right model for your enterprise
+- Security: Secure and reliable AI
+- Omnichannel: Seamlessly integrated AI for chat, voice, and avatar
+- Data Governance: Master your data with intelligent governance
+- Integrations: Go live with 1000+ integrations
+
+## How the Three Products Work Together
+The three agents (EngageAI, DocsAI, InsightsAI) are not separate tools but a single interconnected intelligence:
+- When EngageAI captures a customer conversation, DocsAI instantly processes any referenced documents, while InsightsAI surfaces the data patterns behind the request.
+- Each agent makes the others smarter. Insights from analytics refine engagement strategies. Document intelligence enriches conversation context.
+- Together they transform how organizations think, decide, and act across every department and workflow.
+
+## Industry Solutions
+iNextLabs serves multiple industries:
+- Sales and Marketing Automation
+- Customer Support
+- Human Resources
+- IT
+- Procurement
+- Healthcare
+- Banking, Financial Services, and Insurance (BFSI)
+- Food and Beverage (FnB)
+- Restaurant
+- Retail
+- Other industries
+
+## Strategic Partnerships
+- Microsoft: Data & AI Solutions Partner with Advanced AI Specialization. Part of Microsoft for Startups Founders Hub. ISV Success Partner with deep Azure ecosystem integration.
+- Google: Google Cloud Partner. Rich Business Messaging (RBM) partner. AI & ML Solutions partner.
+- Meta: Meta Technical Partner for WhatsApp Business API. Enables conversational AI on WhatsApp.
+- IMDA Singapore: Pre-approved vendor for the Infocomm Media Development Authority. Supports Singapore's Smart Nation vision.
+
+## AI Grants in Singapore
+iNextLabs helps Singapore businesses access AI grants from IMDA and Digital Industry Singapore (DISG). They identify opportunities, help apply for grants, and implement production-ready AI solutions.
+
+## Sustainability Commitment
+iNextLabs builds AI with environmental responsibility:
+- Energy-Efficient AI: Optimized inference for powerful results with less compute
+- Carbon-Conscious Infrastructure: Green cloud regions with monitored carbon footprints
+- Sustainable Innovation: Every architectural decision is evaluated for environmental impact
+
+## Notable Clients
+iNextLabs serves enterprises including: Singtel, Bank Rakyat, PhonePe, Fullerton, Tealive, Anjappar, Junior Kuppanna, VS Hospital, Prasarana, and many others across Asia.
+
+## Customer Testimonials
+- Naj Roslan, VP of Innovation and Product Strategy at Prasarana: Praised the deployment support, agent response speed and accuracy, and the team's effort in building custom flows for service disruptions.
+- KC Chang, Managing Director at Million: Called iNextLabs more than a development partner — "a true extension of our team" with professional rigor and personal commitment.
+- Thiru, Founder & Managing Director at Nalan: Said EngageAI transformed their WhatsApp customer interactions, automatically handling reservations, FAQs, and order inquiries. Saw significant reduction in support workload within weeks.
+
+## Copyright
+Copyright © 2026 iNextLabs - All Rights Reservedls data

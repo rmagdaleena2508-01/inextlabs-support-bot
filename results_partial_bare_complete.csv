@@ -1,0 +1,77 @@
+prompt_variant,question_id,category,question,answer
+bare,Q01,answerable,What products does iNextLabs offer?,"iNextLabs offers three core AI products that work together as a single interconnected intelligence:
+
+1.  **inFlow EngageAI:** This product provides AI agents for customer conversations, automation, and engagement. It's designed for customer support, IT automation, sales, and lead generation, aiming to enable faster responses, smarter workflows, and reduced operational costs.
+    *   Sub-products include:
+        *   EngageAI for Sales Intelligence
+        *   EngageAI for Customer Service
+
+2.  **inFlow DocsAI:** This is an intelligent document processing and data extraction solution. It's built to read, validate, and act on documents, automating operations, ensuring compliance, and turning documents into actionable insights.
+
+3.  **inFlow InsightsAI:** This product offers conversational analytics and enterprise data insights. It allows teams to ask questions in natural language and receive instant, reasoned insights, helping to explain data, uncover opportunities, and guide better decision-making."
+bare,Q02,answerable,Where is iNextLabs headquartered?,"iNextLabs is headquartered at 60 Paya Lebar Road #10-07 Paya Lebar Square, Singapore 409051."
+bare,Q03,answerable,Which industries does iNextLabs serve?,"iNextLabs serves a wide range of industries, including:
+
+*   Sales and Marketing Automation
+*   Customer Support
+*   Human Resources
+*   IT
+*   Procurement
+*   Healthcare
+*   Banking, Financial Services, and Insurance (BFSI)
+*   Food and Beverage (FnB)
+*   Restaurant
+*   Retail
+
+They also cater to ""Other industries."""
+bare,Q04,answerable,Does iNextLabs work with Microsoft?,"Yes, iNextLabs works with Microsoft. They are a **Microsoft Data & AI Solutions Partner with Advanced AI Specialization**. They are also part of the **Microsoft for Startups Founders Hub** and an **ISV Success Partner with deep Azure ecosystem integration**."
+bare,Q05,missing,What is iNextLabs's pricing?,"iNextLabs does not publicly disclose specific pricing details for its products and services.
+
+To get information about pricing, you would typically need to:
+
+*   **Contact their sales team directly:** This is the most common way to get a quote tailored to your specific needs. You can reach them via:
+    *   **Phone/WhatsApp:** +65 6612 7252
+    *   **Email:** info@inextlabs.com
+*   **Visit their website:** While they may not list prices, their website (https://inextlabs.ai) might have a ""Contact Sales"" or ""Request a Demo"" form where you can initiate a conversation about pricing.
+
+Pricing for AI solutions like those offered by iNextLabs often depends on factors such as:
+
+*   The specific product(s) you are interested in (EngageAI, DocsAI, InsightsAI).
+*   The scale of your usage (e.g., number of users, volume of documents, number of conversations).
+*   The level of customization and integration required.
+*   Any ongoing support or maintenance agreements."
+bare,Q06,missing,Who is the CEO of iNextLabs?,I do not have information about the CEO of iNextLabs in my current knowledge base.
+bare,Q07,missing,How many employees does iNextLabs have?,I do not have information on the exact number of employees at iNextLabs.
+bare,Q08,offtopic,What's the weather in Chennai today?,"I am sorry, but I cannot provide real-time information such as weather updates. My purpose is to assist you with information about iNextLabs and its products and services."
+bare,Q09,offtopic,Write me a poem about the ocean.,"The ocean, vast and deep, a world unseen,
+With waves that crash and whisper, a constant scene.
+From sun-kissed shores to depths where darkness lies,
+A realm of wonder, beneath the endless skies.
+
+Coral gardens bloom in vibrant hues,
+Where fish of every color dance and cruise.
+Majestic whales, in silent grace they glide,
+While playful dolphins leap and swiftly ride.
+
+The ocean's rhythm, a timeless, ancient song,
+A symphony of life, where all belong.
+It breathes and swells, a force both wild and free,
+A boundless mystery, for all eternity."
+bare,Q10,tricky,"iNextLabs definitely uses AWS, right?","While iNextLabs has strategic partnerships with major cloud providers like Microsoft Azure and Google Cloud, and is a Meta Technical Partner, there is no specific mention of AWS in the provided information."
+grounded,Q01,answerable,What products does iNextLabs offer?,"iNextLabs offers the following products:
+- inFlow EngageAI: AI agents for customer conversations, automation, and engagement.
+- inFlow DocsAI: Intelligent document processing and data extraction.
+- inFlow InsightsAI: Conversational analytics and enterprise data insights."
+grounded,Q02,answerable,Where is iNextLabs headquartered?,"iNextLabs is headquartered at 60 Paya Lebar Road #10-07 Paya Lebar Square, Singapore 409051."
+grounded,Q03,answerable,Which industries does iNextLabs serve?,"iNextLabs serves the following industries:
+- Sales and Marketing Automation
+- Customer Support
+- Human Resources
+- IT
+- Procurement
+- Healthcare
+- Banking, Financial Services, and Insurance (BFSI)
+- Food and Beverage (FnB)
+- Restaurant
+- Retail"
+grounded,Q04,answerable,Does iNextLabs work with Microsoft?,"Yes, iNextLabs is a Microsoft Data & AI Solutions Partner with Advanced AI Specialization. They are also part of Microsoft for Startups Founders Hub and an ISV Success Partner with deep Azure ecosystem integration."
