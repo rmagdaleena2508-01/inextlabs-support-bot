@@ -2,7 +2,7 @@
 
 A grounded customer support chatbot for [iNextLabs](https://inextlabs.ai), built with Python and the Google Gemini API. Includes a partial prompt-engineering experiment comparing system prompt variants.
 
-> **Status:** Bot works end-to-end. Prompt experiment is partial — completed 1 of 4 variants before hitting the Gemini free-tier daily quota. Findings reflect what the data showed.
+> **Status:** Bot works end-to-end. Prompt experiment is intentionally partial — I ran 1 of 4 variants to completion, then decided to ship rather than wait for quota resets. This document reflects honest findings from the data I collected, plus real lessons about free-tier API constraints.
 
 ---
 
@@ -152,7 +152,17 @@ The 3 failures aren't about *what* was asked. They're about what the bot was bei
 - **Q10 (AWS):** Asked to agree with a false premise → bot hedged instead of refuting.
 
 In LLM evaluation this is called **sycophancy**: the model's tendency to please the user at the cost of accuracy. With no explicit anti-hallucination rules, the model defaulted to "be helpful" over "be correct."
+---
 
+## Why this project is partial (and why it matters)
+
+I started a 4-variant × 10-question experiment but hit Gemini's free-tier quota wall at 14 calls out of 40. Two lessons here:
+
+1. **API rate limits are real constraints.** Tutorial projects gloss over this. Production systems handle it with retries, fallback chains, and quota management. My script had retries; I should have had a fallback to a second model or pre-planned smaller batches.
+
+2. **Shipping on constraints teaches more than chasing completeness.** I could have waited for the quota to reset and finished all 4 variants. Instead, I analyzed what I had, documented the blocker, and shipped. This is closer to real engineering — you rarely have perfect conditions.
+
+The `bare` variant data is complete and reliable. The findings hold.
 ---
 
 ## What I'd do differently
